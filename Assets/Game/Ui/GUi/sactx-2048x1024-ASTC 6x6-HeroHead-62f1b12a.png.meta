@@ -1,0 +1,2851 @@
+fileFormatVersion: 2
+guid: d428e6e477da3fb4ab24c627276ffb90
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 877
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37eb27a3578fe645aae83aee62ab91f
+      internalID: -805346321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 862
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f71559cd782ab74faf96c90fb4832cd
+      internalID: 2040031625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ae2b0c82c4734497a10864c218028
+      internalID: 326402779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74966704ce0ed4daea68451d869e7d
+      internalID: -1179752706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab979fec4c0edc40aec4a18de4f3ffe
+      internalID: 280319787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000b175071a4044aa2182067570159f
+      internalID: -202682095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104755299a1f7f244a5f383fbe2375d1
+      internalID: -345632421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4cb2efe2158a4ab963837107c0c93
+      internalID: -1041456988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c71c45e2a92d942b08cbb555f4ad6a
+      internalID: 446512040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 770
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f2c4a481ee5b4ca9d4232d1c643ef
+      internalID: 941269216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232d6c702e111648bb72fa53c0a03f8
+      internalID: -241193479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 770
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76485a6c5b15de64db5fb84d5cd079ba
+      internalID: -1658310966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 767
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62975a1d952cab43aa21cfccbbdecd3
+      internalID: -31178422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da434f9fbd06bc4f83f5b374492587e
+      internalID: -586661696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d8faf12d32854fa920712f53beed2
+      internalID: 1109180848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e730a29920824aa52ec097613098e
+      internalID: 1217526028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d63200c1e80144b263181353ad39c
+      internalID: 1435751292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688cc7dec4ece1b47b3ef001ca3d6981
+      internalID: -1885930139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994ca4946111574698a3876fc0f246b
+      internalID: 2039673371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b98d6033139e840ab3dfbfa23f72b4
+      internalID: -2021264734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8e683f4cbe394cb71449ee600f5f8
+      internalID: -351393457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76810753cc2814cb99e63b9b5c20b7
+      internalID: -1789102188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16adc5efe278d843886548ec6c09bcd
+      internalID: -1389157320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 672
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883714496134d84eb87143b5738b254
+      internalID: -692147972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21d490a37925444b7a008139a3a6fe
+      internalID: -820882662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f38dbba74e11c45aea565db668d1a0
+      internalID: -1852186978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130e4f84aa12994396b491712aedc12
+      internalID: 910587993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4eff8c6a7a7047be03a25bec313a7
+      internalID: 1946844592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac99e5984052b4b9eccebdf1dc9c63
+      internalID: 1776222799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb210ab3edbee4196a1b5716053364
+      internalID: -189400006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed72ada2549154e8096309d2a874de
+      internalID: -362443192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e600230478b24382a4400f7efbb70
+      internalID: 849143123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80495ce1e1f79014484999c4780ae339
+      internalID: -1916860747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210a6923e664474a88bfd116fdedbc6
+      internalID: -37920297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 574
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975f5cc09a6e8a44a5e2a23e97c0d53
+      internalID: -692779400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa31a3c3675d34ab58fa92ed82f660
+      internalID: -798497410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c6ccc1e4151d4c858379decf75495
+      internalID: -1401882448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f82ad95e7baa40b4d6eea2c7257ea
+      internalID: 788111254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27659bd1c61696147b7e67beb70c5c6a
+      internalID: -1133938690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188fa4dbb1a41b14eadfe0350c2dde48
+      internalID: -879941840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe3df99cb8f9f4bac0d1b60fc480ae
+      internalID: -373841659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec17e40a6236864c92ac66f22b1087f
+      internalID: 1624311735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f00ead02b1ae43bdc5e08ff9ad21b
+      internalID: 997586244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f209f390c8c8374696c3798d4ecde35
+      internalID: -2726249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe81f1bb27e2948a2596837aa7e65e
+      internalID: 1789338333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 476
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc190c0144bc374fb057088847fb220
+      internalID: -485999688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2685bef502fa3448834c0efa6a61b30
+      internalID: -1343852216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca3d600d104ca4f8fb706ffa0fef9c
+      internalID: 2091023297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1587b4ca96b54bbe41c9b8fb4f267
+      internalID: 1297172213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3d2eae93dda44ebaff6274e862703
+      internalID: 1118599216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d702a11a96c34ca8f5bb554f5136b
+      internalID: -175513698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293968c255fb0245b992476e2e411d4
+      internalID: -12570897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290f8a6b570980429e7bb76f7457193
+      internalID: 187774772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7df05eb4fa4e64eb5a6154dace79be
+      internalID: 413489574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38483971eebbb04baaed8d5ed94d551
+      internalID: 650437705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a1f455500ca6459558e967b9c3608
+      internalID: 1814007244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385217ba9abf04247bb711db88dbe2f5
+      internalID: 426469765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_71
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50196218ca392342a8d83a8444688a6
+      internalID: 1924042292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_72
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf9815fbe6caf48a74d94f84b71f31
+      internalID: 1516918071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_73
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 378
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da20c4589498c4e9c4fcbfed23de3c
+      internalID: 371730380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa5937d06d01548812ac8c165f216e
+      internalID: 1928213049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bc64e1c3a8464d9c95e3fe0f2d81e
+      internalID: -817093250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1dc73914e369749a8d9c938164c470
+      internalID: 988719676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941fbf048e18d246a8b75ddc2737974
+      internalID: -2113434808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7df5019f4b8d747b036fb8e7d9f5e7
+      internalID: 1904071711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6360d695a9b9c3f40b56c6e7eadece04
+      internalID: 1464769210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c52cd9fab1134a8cd49f7dd38cba5
+      internalID: 1657110041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04b8590ecffd44081fe2d4b715eb8e
+      internalID: 705639743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7ebfc9b4f7c7b41ba25d37f9614deb
+      internalID: -1753234628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_84
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8510ae4f1e40849970d199fea67550
+      internalID: 100594755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_85
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941100199501fc54abb874facefe0c99
+      internalID: -1267364126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_86
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef735ef5bbc6574a92a45adfad9cc85
+      internalID: -1044643053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c141a3fcff4f4697baa81a48eeaf3
+      internalID: 1565903278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_88
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7439d5b8567724cb62492b4fd9b1a7
+      internalID: -1653885088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_89
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 280
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee2ec9418837f44b496dc933215c5c
+      internalID: -152050585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba795847bd01947a047037b6acb9e8
+      internalID: -535210812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11c5f1784de5245884737585c145f0
+      internalID: 1133608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0a96d96d68cc478688b4caa1d939e
+      internalID: -705629714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9343eb4086624c97b011e0fec7432
+      internalID: -1649228592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e83ccb7b2cd24e42abda45383a46db7
+      internalID: 1226513215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b112839df7aa4e810225f5cca8209
+      internalID: 793594871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba01e0f30014842812f197721810d2
+      internalID: 1167674692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_99
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6921625f14fe3c140b5b856f4dcdbf4a
+      internalID: -441358253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_100
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef560d35bbff469469550d33284e7d9d
+      internalID: -141305887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_101
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e7fb217d5d7e43b5cb34c22763d4e
+      internalID: -799352762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996726868788774d819344ad0781d73
+      internalID: -1602447377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_103
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a096b2d70c63d488930e1ff25cfa82
+      internalID: -832436353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_104
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adb1f097397874eb12624d7247fd4a
+      internalID: 929744834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_105
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d89dbb4558d449beb19ca6453836e
+      internalID: -1508485633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_106
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093cf07a246fbd4b96b7c87acbdf30f
+      internalID: 1633938730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_107
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462fcaf0c17ffb146a815d06f3f8bdb8
+      internalID: -1992828343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 182
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781776be5666244c985cae0ba6d041d
+      internalID: 2081294718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783ac69d3cedf74b9134106c6280ff1
+      internalID: -86460158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f38c5f48693f4fbb92f90da2ff483
+      internalID: 66194322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bb50ea0e9c4fa45919ad182cd90325
+      internalID: -1209257762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108fad33868a4a43ad758735dfe5ef9
+      internalID: 526509902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c7d001ef0c2b44885111a8535f639
+      internalID: -13561409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac7866595235d428a3e3d75bae2027
+      internalID: -222709445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf8b194208d3a4b9adbfd308307004
+      internalID: 1616280412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ae847be70fb1489252ca926a3ae82
+      internalID: -2016654620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc13bf5d871fa4ab8797d030dbc244
+      internalID: -1967012597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_119
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d43750b545734d909576d23c73a92
+      internalID: -125989000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_120
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9d3053946e8343ab2bc4e06a1bc7b
+      internalID: -1414451554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_121
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eead6aeef9db2841a37247316d19f14
+      internalID: -826132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_122
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bcc39e7fc1bb6479ee7f54126c756d
+      internalID: 990668315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_123
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440639ad956ea64d8be30b1ad65116f
+      internalID: -937772005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_124
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf22bebc6985ae84cafcb363808ef0b5
+      internalID: -499041043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_125
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f78e3bd2f36394b802978c02acb74b
+      internalID: -1172234204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_126
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 84
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948cd2d1e9b68e45961c411a1a27cd7
+      internalID: 93302129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 877
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdce07d4804d0b4f9f52f1b30f8fecc
+      internalID: -491698324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 877
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e9ec297882ba4aad98d9fa53a7f4c
+      internalID: -1003308168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 862
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40f985a103ab641ba0cdb1bc30f345
+      internalID: -2111422215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 863
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be2b14fb4a9ca343b5fe758775eda58
+      internalID: 1287314471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 863
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499f2a2d94fdf243aad95b90f99cc97
+      internalID: -1685254720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 862
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b2a7470a08434ea7b59d0b03f2c06
+      internalID: 702652422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_8
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 862
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c0fb5ea169a974399e880975117b73
+      internalID: 1936671377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4019f0c525e1f7c40b2a28d54cc98708
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_0: -805346321
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_1: -491698324
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_10: -2078451068
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_100: -141305887
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_101: -799352762
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_102: -1602447377
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_103: -832436353
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_104: 929744834
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_105: -1508485633
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_106: 1633938730
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_107: -1992828343
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_108: 2081294718
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_109: -549997955
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_11: 326402779
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_110: -86460158
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_111: 66194322
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_112: -1209257762
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_113: 526509902
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_114: -13561409
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_115: -222709445
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_116: 1616280412
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_117: -2016654620
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_118: -1967012597
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_119: -125989000
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_12: -1179752706
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_120: -1414451554
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_121: -826132523
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_122: 990668315
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_123: -937772005
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_124: -499041043
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_125: -1172234204
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_126: 93302129
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_127: 599770929
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_128: 149798249
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_129: 230187300
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_13: 280319787
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_14: -202682095
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_15: -345632421
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_16: -1041456988
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_17: 446512040
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_18: 941269216
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_19: -241193479
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_2: -1003308168
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_20: -1658310966
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_21: -31178422
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_22: -586661696
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_23: 1109180848
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_24: 1217526028
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_25: 1435751292
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_26: -1885930139
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_27: 2039673371
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_28: -2021264734
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_29: -351393457
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_3: -2111422215
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_30: -1789102188
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_31: -1389157320
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_32: -692147972
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_33: 1916844252
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_34: -820882662
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_35: -1852186978
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_36: 910587993
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_37: 1946844592
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_38: 1776222799
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_39: -189400006
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_4: 2040031625
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_40: -362443192
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_41: 849143123
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_42: -1916860747
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_43: -37920297
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_44: -692779400
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_45: 347987667
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_46: -798497410
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_47: -1401882448
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_48: 788111254
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_49: -1133938690
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_5: 1287314471
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_50: -879941840
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_51: -373841659
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_52: 1624311735
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_53: 997586244
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_54: -2726249
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_55: 1789338333
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_56: -485999688
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_57: -1742762775
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_58: 1704914510
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_59: -933753271
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_6: -1685254720
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_60: -1343852216
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_61: 2091023297
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_62: 1297172213
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_63: 1118599216
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_64: -175513698
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_65: -12570897
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_66: 187774772
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_67: 413489574
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_68: 650437705
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_69: 1814007244
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_7: 702652422
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_70: 426469765
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_71: 1924042292
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_72: 1516918071
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_73: 371730380
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_74: -133322599
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_75: 1928213049
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_76: -817093250
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_77: 988719676
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_78: -2113434808
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_79: 1904071711
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_8: 1936671377
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_80: 1464769210
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_81: 1657110041
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_82: 705639743
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_83: -1753234628
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_84: 100594755
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_85: -1267364126
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_86: -1044643053
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_87: 1565903278
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_88: -1653885088
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_89: -152050585
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_9: -934163989
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_90: 2057064771
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_91: 1702605856
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_92: -535210812
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_93: 1133608656
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_94: -705629714
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_95: -1649228592
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_96: 1226513215
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_97: 793594871
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_98: 1167674692
+      sactx-2048x1024-ASTC 6x6-HeroHead-62f1b12a_99: -441358253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

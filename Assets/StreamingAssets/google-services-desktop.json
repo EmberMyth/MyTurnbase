@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957143852303",
+    "project_id": "turned-based",
+    "storage_bucket": "turned-based.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957143852303:android:508db7be2562feb5200a7a",
+        "android_client_info": {
+          "package_name": "com.LuxStudio.Isekai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9VTxnnmYm1COa5nRRfBefTqcn_btFjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

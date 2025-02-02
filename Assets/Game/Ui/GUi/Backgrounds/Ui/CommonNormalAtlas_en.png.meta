@@ -1,0 +1,6110 @@
+fileFormatVersion: 2
+guid: 9c18c86f72ca7d74faf782ea47c84ef7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 802
+        width: 591
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cc328a1e2b63a43adfbb3435c600f3
+      internalID: 2143148293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 803
+        width: 464
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040373473b4d1746a08470c39b52536
+      internalID: 1774290165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_6
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 795
+        width: 290
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c624d806340cf749b2dcc317c615ae5
+      internalID: -1553417079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_7
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 786
+        width: 249
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aca48dc1d96864d9e4c1c32773b91e
+      internalID: -1088239575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_8
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 744
+        width: 61
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2a4efcf3a6d74bb52f9bc8f814927
+      internalID: -1871062595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 676
+        width: 449
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf4c9ea294c6c4187ccb56f655b3db
+      internalID: 1030022655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 609
+        width: 64
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe43a2442792e4585b46a45011e2d0
+      internalID: -1274428268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 703
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f33e6f61edbf041908aa6d8f7a874d
+      internalID: 2030921162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 765
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017204417270cb41a915daa4f624f7e
+      internalID: -397390083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_16
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 703
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3676567745ce4c88947b633f482eb
+      internalID: 1011392711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_17
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 738
+        width: 188
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e998fa0dfedffc46aed36d0925a8653
+      internalID: -563488213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 711
+        width: 267
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f677ca8d42951d4b9ce91cbdd3b21bd
+      internalID: 1670656705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_22
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 689
+        width: 232
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796d39935cb74c14d8552621e6033a18
+      internalID: 1908545841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_23
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 668
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935631c8f60c0f46a6c6dab368c0978
+      internalID: 559655756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 734
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4de26580749324fbca77a6f096aba4
+      internalID: 1828891580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_26
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 702
+        width: 96
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c54539ec7a944c9a0d3d9892d2d95
+      internalID: 2042568511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_27
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 674
+        width: 272
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f886d86d5ff52dc4c8e396216ffd680a
+      internalID: 815240060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_28
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 727
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c713a17412f03041a9c6123297a942f
+      internalID: 1287087685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_30
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 678
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53688ba21e0e14885369034c828ddd
+      internalID: -772928038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_31
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 710
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d445fe2bd2173d45a45a2dca4f65c04
+      internalID: -822312206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 703
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831deac0da0e22a47807521e1b4a359a
+      internalID: 1724386767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 606
+        width: 232
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40424cdc4c2e6b4ab96e48b3e3d3a1c
+      internalID: -722484356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_36
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 612
+        width: 222
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46056dff2e055d641b0e4e669bb4f784
+      internalID: 1319610042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_37
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 682
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bf5ef360465b46b7894c37f223039
+      internalID: 464946645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_38
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 614
+        width: 239
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e87061a373d8ed43920cb9c527c302e
+      internalID: -364953171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_39
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 689
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407766f12ac53b74fb89247b5cf25bb9
+      internalID: 7292904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 550
+        width: 449
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4772c6335ac393498365b4551b00d9b
+      internalID: -2028068527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_41
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 593
+        width: 231
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec8ca767033dc8449b8acbd6598c68b
+      internalID: 1920518568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_42
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 593
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a9ee3a7494274bb0838e1cc90687d
+      internalID: 1688337164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_44
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 592
+        width: 241
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4f7208c5a91c449981573cf88a93e
+      internalID: -2038999913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_45
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 668
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9ec1e604c9cc4c972cbbfa2c5f523
+      internalID: 1038020330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_46
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 487
+        width: 50
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f698bbdd03cd48826ce3b90823315
+      internalID: 886326263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_50
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 585
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41420f5a577fc4dbd8cf0e88d8fe21
+      internalID: 1106365048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 593
+        width: 217
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009378b27f910d4eb08e13660ff1352
+      internalID: 1782777974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 580
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310615b8122f5f49aedd6558c85fab1
+      internalID: -626545325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_53
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 580
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d9380aa2d33045b872cf0634a14ec
+      internalID: 540907609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_55
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 525
+        width: 204
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a3b773919e7544923487a00544cdc
+      internalID: -1428724324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_56
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 537
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af09b031accb2b43844542e7df502b3
+      internalID: 1909731628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_58
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 528
+        width: 180
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d43e73db1aba94183fb794415151a5
+      internalID: 612426740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_59
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 512
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aacf909ec14884fa4ea5da01ebfa8c
+      internalID: 347982556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_60
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 508
+        width: 167
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cedac8f69c20e459d3d050323fbeb4
+      internalID: 1698568938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_61
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 563
+        width: 116
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17eeed13f1b434aa4182d4a4bede19
+      internalID: 1490421372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_62
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 563
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca804459a9eb146915166888fe33c2
+      internalID: 1950984075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_63
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 563
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a022416be6e034e8b52db8c921439b
+      internalID: -1852834427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_65
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 532
+        width: 177
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98540f2644606cb439e6b2fc78bd0718
+      internalID: 585989393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_66
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 544
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a923c23957b7da64f915bd89e9c57e79
+      internalID: -1605931126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_67
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 503
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8166729643b0b043a4b958ebc71082e
+      internalID: -1301650378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_68
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 513
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2587fcad47ab46ab3d2605bb9ab79
+      internalID: 1454017062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 440
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f81a02f0d708540b4c9a182bb47b8e
+      internalID: 527070943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_71
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 540
+        width: 106
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466004ac881e1d44859e26e7636a149
+      internalID: 1870888196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_72
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 540
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f8dbfb4259874db8f38b4f515e9d0
+      internalID: -392085782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_73
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 541
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80451cf83d156044a955cb9501178f3e
+      internalID: 1902946993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_75
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 436
+        width: 198
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6103ca38c31f7cf42af17fc1a7777e52
+      internalID: 1992035906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 487
+        width: 179
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99286eb0c7899be469eac4a041781347
+      internalID: -1944158525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_78
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 503
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fa9415fa7c124abdb1ab85af8477a
+      internalID: -1123968950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_79
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 498
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb8b7c97ad1e7438a2579f186b9eab
+      internalID: 848242907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_80
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 511
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8030ce9cad9f5cb4d9b5ff719babd9ef
+      internalID: 1500981650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_81
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 506
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ee6a7c10a7844db9c9cbf88e076e6
+      internalID: -492045418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_82
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 503
+        width: 102
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8df756c24cd1438b184f2b8a93f72
+      internalID: 1638835060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_83
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 425
+        width: 118
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838fe88161539648a4560975a9535ce
+      internalID: 1385841038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_85
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 471
+        width: 172
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4ce8d3b819194b8a86fd41ffb8cce
+      internalID: -1520596253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_86
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 474
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d560f73c52d7784f98eb5c88a1357c9
+      internalID: 1087096470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_87
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 480
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b812bdef5d824891a5002f3ec638a
+      internalID: -1897386465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_88
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 471
+        width: 176
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d87b9370664f242a5a1b72d046b4c1
+      internalID: 1140166329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_89
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 468
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fb080d7cc9fd4d9842dd028e530f7
+      internalID: -1314107138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_90
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 465
+        width: 180
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a0dd561e2fd143b3fe4a6a1e37a29
+      internalID: 1700701203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_91
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 458
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac107d85d95f3d4498e024a9e34307f9
+      internalID: -1281899092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_92
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 458
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546344bf1c3123541a7a333712869999
+      internalID: 1590905420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_93
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 458
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69f93c3f36f634d9f6b55f5b2fc32b
+      internalID: 2060926043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_94
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 493
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407a091e5b062d40ad91fcd7e2fb323
+      internalID: 184195774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_95
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 436
+        width: 151
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbf1b210dabac42b0da5a74399ad2e
+      internalID: 1212472854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_96
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 471
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f56478b75e3246a6c6ec411590efa
+      internalID: -1108955408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_97
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 449
+        width: 156
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51904853219ebce46a869efd94e282e2
+      internalID: -1548413628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_98
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 463
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b92acd5f21c6e4ba325efe376e29e2
+      internalID: 2090875080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_99
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 433
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19eb9e1bf3129648831baf3e41cf48f
+      internalID: -442596126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_100
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 433
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50bcf5fd28e6248a45b74d7e2b29d2
+      internalID: -70582764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 435
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c88066351cd324a948c11476e7eb8d
+      internalID: 598179439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_102
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 389
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223539b644d0294e838b59d6c015382
+      internalID: 1413065643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_103
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 389
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8268e6c8bd28459b0d3608cd91ef8
+      internalID: 843025793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_104
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 448
+        width: 79
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec0c259838b654fac8bd5d25fc7583
+      internalID: -483923583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_105
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 448
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02983c1504ca0a14ca471d5f62ea0281
+      internalID: -1148321926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_106
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 439
+        width: 114
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b54dd40cf2b6f448b6d8a576184e218
+      internalID: -1755827518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_107
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 438
+        width: 95
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb17a3b6f5e69048a4b8f9525649e15
+      internalID: 313568884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_108
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 433
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ccf9b8c18a77488923ee84886ff93
+      internalID: 564452794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_109
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 433
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e3a9f551c8cb468b152fdd703994f
+      internalID: -1434019775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_110
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 433
+        width: 84
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a09f46c83e9f4ca09cb38b7d31fa3
+      internalID: 1526382544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_111
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 347
+        width: 191
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e54a1a6c6add4ba7f2abbf863e7f6
+      internalID: -358419302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_112
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 388
+        width: 151
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2bc01108df08499bae0ec5d4fc084
+      internalID: 27432630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_113
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 402
+        width: 137
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956831aa9c6444e42aebe515f675fb61
+      internalID: -736722295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_114
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 418
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eddabfffc385d944b3aa34ec155ba46
+      internalID: 1808037360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_115
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 418
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339c0dc9aae67c44bba698dc8a4c3c1f
+      internalID: -1759625070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_116
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 408
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251c903b9ae6e54ebcdc3237d2654f7
+      internalID: 33432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_117
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 414
+        width: 99
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d47408312db343a4f235bc70d1cb6
+      internalID: -1469663254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_118
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 381
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44994f4dfcdab489ae36a4946421ad
+      internalID: -1928383809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_119
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 365
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc09aa9c6868c448902acfdd0d7cb9e
+      internalID: 100339744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_120
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 352
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a8eefceb18d3449a142359c6a2b252
+      internalID: 2077356615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_121
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 349
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ea1a2bbce4c34895b9c841de4a82c
+      internalID: -1267968655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_122
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 347
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667554ae8f71599418fe172d170531cf
+      internalID: 1899915554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_123
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 392
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c8b366322814949b3cb6b4d1b45463
+      internalID: 846336737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_124
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 335
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36def097045c0bb4ca940ed149d86f79
+      internalID: 564645599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_126
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 375
+        width: 138
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4eab62486ae114da8800c3076912da
+      internalID: 2133306505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_127
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 384
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae3895e792b2846be870a97e1a8717
+      internalID: 1121676249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_128
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 389
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2df99345266f94b92e7ac1df257638
+      internalID: -1353311005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_129
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 387
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c60abe9d65be3746a91c3c0a6f07416
+      internalID: -601618361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_130
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 346
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5d785c9bfd634baecfee539b366e2
+      internalID: 85606007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_131
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 347
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd81468d77d73419dbd443a039ba29
+      internalID: 644929937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 300
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b284ee02479e841bdde1fc18cbeaec
+      internalID: 567392602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 287
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa7691a2b33194eae925fa0d866c91
+      internalID: -1046631688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_134
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 339
+        width: 152
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977c59a10c03552419f97211ec330686
+      internalID: -1586616130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_135
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 338
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af993100d0472c6418c2fe14086cd0e2
+      internalID: 537987722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_136
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 349
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f1856e1234724bb05d3ad2a730836
+      internalID: 1301426664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_137
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 353
+        width: 136
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae79d568b10e874a9808670d7e8ce58
+      internalID: -146543708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_138
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 355
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a564795a3f7f95409f6a673b931e8e7
+      internalID: 1359657429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_139
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 355
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc41f7edab8164db88b517c15f4347
+      internalID: 454946906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_140
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 345
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45854c7ace34971458cb9a599649a2f6
+      internalID: -1953337024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_141
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddedf7c01d536aa4c86e49892f6bf5e7
+      internalID: 1368819974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_142
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 314
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98757204c9c014e8284766a11864b9
+      internalID: -553546068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_143
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 307
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d562f8e459f04c8f320f4ddaeeab2
+      internalID: -816978155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_144
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 293
+        width: 196
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e27330a27c5b54d819af37b6877bcb
+      internalID: 1165704901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 291
+        width: 138
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414abae033c2dc4993b554d788f3826
+      internalID: 892079276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_146
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 290
+        width: 151
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894666e6fc6ad946b2714892cb225bb
+      internalID: -999990859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_147
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 297
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c58f7f5ebaca42bd18240bb5c93b6
+      internalID: -1948372172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_148
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 309
+        width: 132
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5eea7a890b66848828520249a8338a
+      internalID: -1439096076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_149
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 333
+        width: 117
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0630e50dca0354e84cf378cec45c7c
+      internalID: 217086118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_150
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 333
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a8a4bb4b22304fbf2673448e984aa
+      internalID: 751442004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_151
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 255
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5eeefec039c7246a611d44117464a6
+      internalID: -1463053426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_152
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 265
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ace2af5f19d644186c00ecc1ce2da0
+      internalID: -1145836935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_153
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 287
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c4a123357fc447a2c001348793dd1
+      internalID: -1165772592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_154
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 280
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d654b9ecdc51f41a993528b6be11a3
+      internalID: -1398761576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_155
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 273
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b4a1e9f5a7a54d8f31365ea7c58d4
+      internalID: -604211030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_156
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 308
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e2096a8ed9f24c8690c4e010ba295
+      internalID: -2123507952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_157
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 299
+        width: 147
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4bb9ef661547f448eb1630e2b0a55f
+      internalID: -142938162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_159
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 265
+        width: 132
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82144ca2c2e0b1b4bb70f1a5d94db509
+      internalID: -1851143234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_160
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 265
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a0fe3487e7694b9322a6e87e49e5d
+      internalID: -523447202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_161
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 253
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34510dcebb15349bede9303ea6b68d
+      internalID: 1301679350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_162
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 265
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54850d3464e413b429872d7b22913f47
+      internalID: 1902890583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_163
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 241
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045e98a10ccc4674faecc6663d692c86
+      internalID: -376766928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_164
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 273
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ac9b3141f8cee4e8dc00d87a562c63
+      internalID: -1863823479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ac9f6a2d6d61439f3466aed2deb7c
+      internalID: 647968576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_166
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 124
+        width: 156
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ce5060dbb9f04497fd1320929dda8
+      internalID: -514419581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_167
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 156
+        width: 175
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e08ccd297e5143a45c0dba143406d
+      internalID: -1098633755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_168
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 191
+        width: 128
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb7c92d81226b48931d740aafa85b5
+      internalID: 550282960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_169
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 210
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a890ada179a44183152057cddc968
+      internalID: 245157311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_170
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 217
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87959072cb757174a89b3343b5fd86aa
+      internalID: -1383754723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_171
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 222
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e84f76f911f64d8680e39ae5db70a
+      internalID: -1508552700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_172
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 205
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c190ccdc72011849a14da303aff9eaa
+      internalID: 332523118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_173
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 263
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d00b59228856439ac65cf6ca674eb
+      internalID: 690608278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_174
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 212
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1d3ea327e891498e578d49fba7ec0
+      internalID: 1667566105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_175
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 211
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835e6b756bd4cd4bb3e658e42d4fb88
+      internalID: -741460490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_176
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 196
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d82b2543ea4a41985931185e6e94d
+      internalID: -960161564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_177
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 205
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3d095b332efa408e9cc0bdc6d9d12
+      internalID: 834903997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_178
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 213
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4793bf2ff6de52f4a94fc0c132c915a8
+      internalID: -705449806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_179
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 220
+        width: 122
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a661e15e83889954aa235a1a4e730f7c
+      internalID: -1444512196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_180
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 225
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6967c5ffee5a46842fca8161e9b35
+      internalID: -1810738183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_181
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 217
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180fd8285d46db428ee3e5ec8d881ff
+      internalID: 886143352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_182
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 223
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043811e9695c6c2419ab5d5b621788e4
+      internalID: -1650446427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_183
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 238
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1627078bdbf0d04ca8bf89026a583f6
+      internalID: 1203767258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_184
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 187
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96e80205146ad4bb5961cbc2d077f6
+      internalID: -253271384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_185
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 242
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433c3fd8e29fa9499425b949dbb7965
+      internalID: -384752349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_186
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 123
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6518a69ef1c393c4d81cbac8895be087
+      internalID: -1596647464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_187
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 171
+        width: 125
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f80ef3d7cfbd4889a1aea1f3dcd50
+      internalID: -1756527965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_188
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 148
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843a2ce815edb941869deb5e303acc2
+      internalID: -274266724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_189
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 120
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a82fad8c08d1e468184b849f2670c9
+      internalID: 842457170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_190
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 162
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3234ac6ef2cf340a0d3665b19f2a55
+      internalID: -1109493716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_191
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 179
+        width: 122
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2840f876a61294ca5224670d7ac76c
+      internalID: 49569389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_192
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 179
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc168400ffcf34ab8c1baf175536c3
+      internalID: 1595077604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_193
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 183
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d6c67d5dc1805409daae3ed9a5acc9
+      internalID: 2049245021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_194
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 179
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace13dc7ce8dd84f855b5f6843976aa
+      internalID: 355717231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_195
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 127
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772773293b9125c408186a078be07375
+      internalID: -251256128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_196
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 142
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7f7fe7f5d53b44866b259197037ad
+      internalID: -714509350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_197
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 174
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be39ea7d2e287d4f8fb3b68a2a4f01e
+      internalID: 2011460723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_198
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 189
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7bdf76b47bb044a99c3915ea317a2
+      internalID: -1206591378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_199
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 189
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7faacfbfa71a41b9ee06f0910f57a
+      internalID: -1703727031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_200
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 188
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598f47f3abe2414b9c5a03ecfa9a130
+      internalID: 2039778086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_201
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 148
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325c879ce15ed04cba5eb8b3ed10429
+      internalID: 453900787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_202
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 149
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26789ec6bea41a946ad769ef43140d1c
+      internalID: -2114025205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_203
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 184
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2034e5b01c029b34ba71a1e83d7c5d2e
+      internalID: -137876105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_204
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 114
+        width: 180
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab34f52ce5c0034d9a0d0b2f23ddbab
+      internalID: 1269438964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_205
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e776f4e80db9854caf3dd3850e51da9
+      internalID: -713848175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_206
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 103
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16621a21ed2caf740b0b0a6d89be5239
+      internalID: 2114803939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_207
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 127
+        width: 132
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16fab66b7e66a1429569a7ae75759e6
+      internalID: -2138668517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_208
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 120
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d6bd798b063340adf6581cc7d9c30
+      internalID: 139514580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_209
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 90
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315af72f1f8ad3b40a52739c6c395855
+      internalID: 657883472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_210
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 90
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d901cfcb117949442820ab383fd787f7
+      internalID: 1078987185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_211
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 92
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b739632e13c74391970ab597c48f7
+      internalID: -1551892483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_212
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 148
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4cc6401d30ed54fae88425237c2803
+      internalID: 1823421632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_213
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 107
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb0833136f6254dbe34e29e8952d72
+      internalID: 1101199593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_214
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 149
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5047b88fa60f77d4586249b087d7f63e
+      internalID: 1093402842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_215
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 146
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c0d4edd5e27344aa92d5d42776ccf1
+      internalID: 1501464705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_216
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 145
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d82d0a2fa34514e945b36d790c6bea
+      internalID: 325844437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_217
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 148
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c271258c7abc2144d840fab29363299a
+      internalID: 476918675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_218
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 145
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aab4c4be012d447a4f6c9d18ebbf96
+      internalID: -1225089624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_219
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 129
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b039fc9a82f347817dfa05eb767aa
+      internalID: 1130888752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_220
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e8d8f65b09ef43a7e5e1abf0380e2
+      internalID: 591693761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_221
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f7c754b421f24689dbaff30d94611
+      internalID: 1370085283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_222
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 37
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2c8911dd6d7b44980b96594a0049f3
+      internalID: 1250544628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_223
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 121
+        width: 103
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b546148a94184684917aa4d98e5f6
+      internalID: 641395836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_224
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 37
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f646b36e1cc246be245a35a2cf82b
+      internalID: 219980579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_225
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 62
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d59122dff1d584283e477277395010
+      internalID: -1983232332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_226
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 70
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134f6f78103e564fa81d9e0477cc3c1
+      internalID: -2107597415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_227
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 118
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba507359a5c4f4b8afdc00d0f6d4a6
+      internalID: 1768577232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_228
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 119
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25f12688f4372428d71181689c9c4e
+      internalID: 690844017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_229
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 118
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d4eada6009e9499b8643c60fd8d59
+      internalID: -386489980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_230
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 121
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59756170b18b5b94aa1178ddb9a3a0e7
+      internalID: -1486478189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_231
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 116
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c765f2150d384b44f9583d26aa84e87f
+      internalID: 1817648637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_232
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 116
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928fc4a98ae09e4cb4ecefce6a9faef
+      internalID: -1872429917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_233
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 118
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea513dc24d0166a4b96af6983d5b4bd5
+      internalID: 1622470366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_234
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a893bfe72cd7ce44888980f3b46393d0
+      internalID: -1619565341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_235
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 108
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699ef0a4c7aa2f24b85ab62d1d9ff392
+      internalID: -1557575572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_236
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 31
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1a65329a77874bb5628e19d5ab044
+      internalID: 2071318624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_237
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 34
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438aeba8a02debf45aee1f0119b5e2b3
+      internalID: -1483324218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_238
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 32
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ee48fd0badc842a0b5de9aa9d7ce6
+      internalID: 1755618339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_239
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 30
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191424f8078b39446bb150c1e4762aa6
+      internalID: 1290485309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_240
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 95
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f1f4955fc8e542a3cb80130d3aed2
+      internalID: -373852343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_241
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 94
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494f083c1c072d4db119d9cddb8d6b0
+      internalID: 1690125868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_242
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 94
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a98e7db9bf8d4418bc105c2a32b066
+      internalID: 95699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_243
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 94
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f3238ff25c904d9366b53ee4ab1f4
+      internalID: 1378354777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_244
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 92
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d366cfc5fee2489081373e40365e6
+      internalID: -1379752920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_245
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 92
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f17637d735a04b872a815792c5761
+      internalID: -395833821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_246
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 102
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c78da76bf036a4eaa03a5179f707f9
+      internalID: -1125466204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_247
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 12
+        width: 129
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb78be57836f0439614e132d2299bc
+      internalID: -564924028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_248
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6dfdaccc32fc943916a647ed4c8171
+      internalID: 603249258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_249
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249792289c86ec74db686944e6763fcc
+      internalID: 194906540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_250
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4d19fc10b7984586f441b99ed235e
+      internalID: -70714085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_251
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da148b443409243a0615d81224eb77
+      internalID: 21348794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_252
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 73
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b13d3a232627c41880366136bd3da8
+      internalID: 2053062235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_253
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 74
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40351007fd1ffd4bb0bf887ef572445
+      internalID: 1627665148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_254
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 70
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38154a9198f1e4b8ceb82a7109ce67
+      internalID: 237562942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_255
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 67
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916b0c4e1ae6ca43a1e5f45ca3bcbbd
+      internalID: 644133087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_256
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 72
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c35942c80385a54aafb4a7dcc01ac51
+      internalID: -1434520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_257
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 66
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfb1f679bfb0f47af478ca4d4d5227
+      internalID: 1966646931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_258
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 55
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc06f1183d81844b4148cc04ad89d5
+      internalID: 207582588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_259
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 53
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854897323eac0b40b7c28f57306884a
+      internalID: -540371187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_260
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 80
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8cb00c62be23488e399da628e732f
+      internalID: -1578454984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_261
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 79
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbdd8ad5c976c446ad1a91ba05e4369
+      internalID: 1470789909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_262
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ce7cf71919294dad56d01c97b2f94
+      internalID: -499458079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_263
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 38
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65e9d4d70eddb4a94692e04d674bde
+      internalID: -1209329894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_264
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962bf9e772732948b3981689a006849
+      internalID: -835562140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_265
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 24
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdce1c5e8af1bd4589b455c0a6302e1
+      internalID: -1132232230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_266
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 28
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3b2328a00b32469dd2cf7cd9692bf
+      internalID: 1042123123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_267
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 35
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62891487d747634bb1c4c8b525204a6
+      internalID: 1339939234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_268
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 33
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbce503ebb1a6498d53269229ca7a3
+      internalID: 919865992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_269
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937cdb2271ec99242ab8c4c2dbab6a92
+      internalID: 972472821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_270
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c85776f1eb8234682cd1105be661e0
+      internalID: 197136066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_271
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 33
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8329fbb7fc786f47b3ef0869db9dc43
+      internalID: -2022121385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_272
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3f4c7cf922e2409e5d2326e9287eb
+      internalID: -1203626039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_273
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 58
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a1dd8615e7cd40aa4c19cd43e6beb
+      internalID: 1130935757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_274
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 57
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75c9a1fef9bf14f9d764c6ea174141
+      internalID: -156536678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 200
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb2db6e550af34b8c84efdd747a5c0
+      internalID: -1428198554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_276
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 30
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ccb63896fbae44ba297738ec859b2
+      internalID: 518300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_277
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 24
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0a4007eaf23745a4fac5596da38a7
+      internalID: -1227232397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_278
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 37
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc144b0af359c4bb9105901ef7b4f7
+      internalID: 679042987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_279
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6f5a2306b40344886b05ad102b201
+      internalID: -390574879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_280
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc8547d44e50d4b84d4795de4f7f2b
+      internalID: -535935313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_281
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f801f3e01a9684d884a977f413f054
+      internalID: 1719438348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_282
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6aaa25cfdbc3469841a306987ef12
+      internalID: -1865491208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_283
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4d079551ffa641803d0c7855b7548
+      internalID: 387032826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_284
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 8
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c7945e19c95c448e61e7fdbcd6ffc
+      internalID: -358451040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_285
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698c6e7d3b304a4f9b5aa0906bcca2a
+      internalID: 826660235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_286
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 5
+        width: 87
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea6ea715906d94189cf7255d2511c5
+      internalID: -459211955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_287
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 7
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ddd6130669b74ba4598113d56b072
+      internalID: -1414316720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_288
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e2e81a7457c94faf70375d7151f27
+      internalID: 106481446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_289
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce2361f7ee97b4e955403fe192d1a1
+      internalID: -2086820133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_290
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 10
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0dcc39c8c39374596521f1f59d2aef
+      internalID: -856754436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_291
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396352eedc54ad479db28e1a80189f9
+      internalID: -1977192912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_292
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b6ae97eca066458f6168d8d3e92e0
+      internalID: 1841999729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_293
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231290d91a0b32d43af9bd9d52552cf3
+      internalID: -1293769543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_294
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 7
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d295537c3cbf8647ae29e9f4ae4a500
+      internalID: 1578929918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_295
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 9
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a730035f81fa2b41b525e36dc1ceb70
+      internalID: -371811914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonNormalAtlas_en_296
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 16
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13e5450227ccf41b1ec06c397f2720
+      internalID: 661259906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dfe1f9d7b8ae10b40bc75fe1255d072a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CommonNormalAtlas_en_0: 2143148293
+      CommonNormalAtlas_en_1: 1774290165
+      CommonNormalAtlas_en_10: 827760676
+      CommonNormalAtlas_en_100: -70582764
+      CommonNormalAtlas_en_101: 598179439
+      CommonNormalAtlas_en_102: 1413065643
+      CommonNormalAtlas_en_103: 843025793
+      CommonNormalAtlas_en_104: -483923583
+      CommonNormalAtlas_en_105: -1148321926
+      CommonNormalAtlas_en_106: -1755827518
+      CommonNormalAtlas_en_107: 313568884
+      CommonNormalAtlas_en_108: 564452794
+      CommonNormalAtlas_en_109: -1434019775
+      CommonNormalAtlas_en_11: -244699858
+      CommonNormalAtlas_en_110: 1526382544
+      CommonNormalAtlas_en_111: -358419302
+      CommonNormalAtlas_en_112: 27432630
+      CommonNormalAtlas_en_113: -736722295
+      CommonNormalAtlas_en_114: 1808037360
+      CommonNormalAtlas_en_115: -1759625070
+      CommonNormalAtlas_en_116: 33432278
+      CommonNormalAtlas_en_117: -1469663254
+      CommonNormalAtlas_en_118: -1928383809
+      CommonNormalAtlas_en_119: 100339744
+      CommonNormalAtlas_en_12: 1030022655
+      CommonNormalAtlas_en_120: 2077356615
+      CommonNormalAtlas_en_121: -1267968655
+      CommonNormalAtlas_en_122: 1899915554
+      CommonNormalAtlas_en_123: 846336737
+      CommonNormalAtlas_en_124: 564645599
+      CommonNormalAtlas_en_125: 689222687
+      CommonNormalAtlas_en_126: 2133306505
+      CommonNormalAtlas_en_127: 1121676249
+      CommonNormalAtlas_en_128: -1353311005
+      CommonNormalAtlas_en_129: -601618361
+      CommonNormalAtlas_en_13: -1274428268
+      CommonNormalAtlas_en_130: 85606007
+      CommonNormalAtlas_en_131: 644929937
+      CommonNormalAtlas_en_132: 567392602
+      CommonNormalAtlas_en_133: -1046631688
+      CommonNormalAtlas_en_134: -1586616130
+      CommonNormalAtlas_en_135: 537987722
+      CommonNormalAtlas_en_136: 1301426664
+      CommonNormalAtlas_en_137: -146543708
+      CommonNormalAtlas_en_138: 1359657429
+      CommonNormalAtlas_en_139: 454946906
+      CommonNormalAtlas_en_14: 2030921162
+      CommonNormalAtlas_en_140: -1953337024
+      CommonNormalAtlas_en_141: 1368819974
+      CommonNormalAtlas_en_142: -553546068
+      CommonNormalAtlas_en_143: -816978155
+      CommonNormalAtlas_en_144: 1165704901
+      CommonNormalAtlas_en_145: 892079276
+      CommonNormalAtlas_en_146: -999990859
+      CommonNormalAtlas_en_147: -1948372172
+      CommonNormalAtlas_en_148: -1439096076
+      CommonNormalAtlas_en_149: 217086118
+      CommonNormalAtlas_en_15: -397390083
+      CommonNormalAtlas_en_150: 751442004
+      CommonNormalAtlas_en_151: -1463053426
+      CommonNormalAtlas_en_152: -1145836935
+      CommonNormalAtlas_en_153: -1165772592
+      CommonNormalAtlas_en_154: -1398761576
+      CommonNormalAtlas_en_155: -604211030
+      CommonNormalAtlas_en_156: -2123507952
+      CommonNormalAtlas_en_157: -142938162
+      CommonNormalAtlas_en_158: 1186014610
+      CommonNormalAtlas_en_159: -1851143234
+      CommonNormalAtlas_en_16: 1011392711
+      CommonNormalAtlas_en_160: -523447202
+      CommonNormalAtlas_en_161: 1301679350
+      CommonNormalAtlas_en_162: 1902890583
+      CommonNormalAtlas_en_163: -376766928
+      CommonNormalAtlas_en_164: -1863823479
+      CommonNormalAtlas_en_165: 647968576
+      CommonNormalAtlas_en_166: -514419581
+      CommonNormalAtlas_en_167: -1098633755
+      CommonNormalAtlas_en_168: 550282960
+      CommonNormalAtlas_en_169: 245157311
+      CommonNormalAtlas_en_17: -563488213
+      CommonNormalAtlas_en_170: -1383754723
+      CommonNormalAtlas_en_171: -1508552700
+      CommonNormalAtlas_en_172: 332523118
+      CommonNormalAtlas_en_173: 690608278
+      CommonNormalAtlas_en_174: 1667566105
+      CommonNormalAtlas_en_175: -741460490
+      CommonNormalAtlas_en_176: -960161564
+      CommonNormalAtlas_en_177: 834903997
+      CommonNormalAtlas_en_178: -705449806
+      CommonNormalAtlas_en_179: -1444512196
+      CommonNormalAtlas_en_18: 2068783697
+      CommonNormalAtlas_en_180: -1810738183
+      CommonNormalAtlas_en_181: 886143352
+      CommonNormalAtlas_en_182: -1650446427
+      CommonNormalAtlas_en_183: 1203767258
+      CommonNormalAtlas_en_184: -253271384
+      CommonNormalAtlas_en_185: -384752349
+      CommonNormalAtlas_en_186: -1596647464
+      CommonNormalAtlas_en_187: -1756527965
+      CommonNormalAtlas_en_188: -274266724
+      CommonNormalAtlas_en_189: 842457170
+      CommonNormalAtlas_en_19: 1399849691
+      CommonNormalAtlas_en_190: -1109493716
+      CommonNormalAtlas_en_191: 49569389
+      CommonNormalAtlas_en_192: 1595077604
+      CommonNormalAtlas_en_193: 2049245021
+      CommonNormalAtlas_en_194: 355717231
+      CommonNormalAtlas_en_195: -251256128
+      CommonNormalAtlas_en_196: -714509350
+      CommonNormalAtlas_en_197: 2011460723
+      CommonNormalAtlas_en_198: -1206591378
+      CommonNormalAtlas_en_199: -1703727031
+      CommonNormalAtlas_en_2: -2073147036
+      CommonNormalAtlas_en_20: 1325999822
+      CommonNormalAtlas_en_200: 2039778086
+      CommonNormalAtlas_en_201: 453900787
+      CommonNormalAtlas_en_202: -2114025205
+      CommonNormalAtlas_en_203: -137876105
+      CommonNormalAtlas_en_204: 1269438964
+      CommonNormalAtlas_en_205: -713848175
+      CommonNormalAtlas_en_206: 2114803939
+      CommonNormalAtlas_en_207: -2138668517
+      CommonNormalAtlas_en_208: 139514580
+      CommonNormalAtlas_en_209: 657883472
+      CommonNormalAtlas_en_21: 1670656705
+      CommonNormalAtlas_en_210: 1078987185
+      CommonNormalAtlas_en_211: -1551892483
+      CommonNormalAtlas_en_212: 1823421632
+      CommonNormalAtlas_en_213: 1101199593
+      CommonNormalAtlas_en_214: 1093402842
+      CommonNormalAtlas_en_215: 1501464705
+      CommonNormalAtlas_en_216: 325844437
+      CommonNormalAtlas_en_217: 476918675
+      CommonNormalAtlas_en_218: -1225089624
+      CommonNormalAtlas_en_219: 1130888752
+      CommonNormalAtlas_en_22: 1908545841
+      CommonNormalAtlas_en_220: 591693761
+      CommonNormalAtlas_en_221: 1370085283
+      CommonNormalAtlas_en_222: 1250544628
+      CommonNormalAtlas_en_223: 641395836
+      CommonNormalAtlas_en_224: 219980579
+      CommonNormalAtlas_en_225: -1983232332
+      CommonNormalAtlas_en_226: -2107597415
+      CommonNormalAtlas_en_227: 1768577232
+      CommonNormalAtlas_en_228: 690844017
+      CommonNormalAtlas_en_229: -386489980
+      CommonNormalAtlas_en_23: 559655756
+      CommonNormalAtlas_en_230: -1486478189
+      CommonNormalAtlas_en_231: 1817648637
+      CommonNormalAtlas_en_232: -1872429917
+      CommonNormalAtlas_en_233: 1622470366
+      CommonNormalAtlas_en_234: -1619565341
+      CommonNormalAtlas_en_235: -1557575572
+      CommonNormalAtlas_en_236: 2071318624
+      CommonNormalAtlas_en_237: -1483324218
+      CommonNormalAtlas_en_238: 1755618339
+      CommonNormalAtlas_en_239: 1290485309
+      CommonNormalAtlas_en_24: 1828891580
+      CommonNormalAtlas_en_240: -373852343
+      CommonNormalAtlas_en_241: 1690125868
+      CommonNormalAtlas_en_242: 95699495
+      CommonNormalAtlas_en_243: 1378354777
+      CommonNormalAtlas_en_244: -1379752920
+      CommonNormalAtlas_en_245: -395833821
+      CommonNormalAtlas_en_246: -1125466204
+      CommonNormalAtlas_en_247: -564924028
+      CommonNormalAtlas_en_248: 603249258
+      CommonNormalAtlas_en_249: 194906540
+      CommonNormalAtlas_en_25: -1247359385
+      CommonNormalAtlas_en_250: -70714085
+      CommonNormalAtlas_en_251: 21348794
+      CommonNormalAtlas_en_252: 2053062235
+      CommonNormalAtlas_en_253: 1627665148
+      CommonNormalAtlas_en_254: 237562942
+      CommonNormalAtlas_en_255: 644133087
+      CommonNormalAtlas_en_256: -1434520746
+      CommonNormalAtlas_en_257: 1966646931
+      CommonNormalAtlas_en_258: 207582588
+      CommonNormalAtlas_en_259: -540371187
+      CommonNormalAtlas_en_26: 2042568511
+      CommonNormalAtlas_en_260: -1578454984
+      CommonNormalAtlas_en_261: 1470789909
+      CommonNormalAtlas_en_262: -499458079
+      CommonNormalAtlas_en_263: -1209329894
+      CommonNormalAtlas_en_264: -835562140
+      CommonNormalAtlas_en_265: -1132232230
+      CommonNormalAtlas_en_266: 1042123123
+      CommonNormalAtlas_en_267: 1339939234
+      CommonNormalAtlas_en_268: 919865992
+      CommonNormalAtlas_en_269: 972472821
+      CommonNormalAtlas_en_27: 815240060
+      CommonNormalAtlas_en_270: 197136066
+      CommonNormalAtlas_en_271: -2022121385
+      CommonNormalAtlas_en_272: -1203626039
+      CommonNormalAtlas_en_273: 1130935757
+      CommonNormalAtlas_en_274: -156536678
+      CommonNormalAtlas_en_275: -1428198554
+      CommonNormalAtlas_en_276: 518300504
+      CommonNormalAtlas_en_277: -1227232397
+      CommonNormalAtlas_en_278: 679042987
+      CommonNormalAtlas_en_279: -390574879
+      CommonNormalAtlas_en_28: 1287087685
+      CommonNormalAtlas_en_280: -535935313
+      CommonNormalAtlas_en_281: 1719438348
+      CommonNormalAtlas_en_282: -1865491208
+      CommonNormalAtlas_en_283: 387032826
+      CommonNormalAtlas_en_284: -358451040
+      CommonNormalAtlas_en_285: 826660235
+      CommonNormalAtlas_en_286: -459211955
+      CommonNormalAtlas_en_287: -1414316720
+      CommonNormalAtlas_en_288: 106481446
+      CommonNormalAtlas_en_289: -2086820133
+      CommonNormalAtlas_en_29: 997436977
+      CommonNormalAtlas_en_290: -856754436
+      CommonNormalAtlas_en_291: -1977192912
+      CommonNormalAtlas_en_292: 1841999729
+      CommonNormalAtlas_en_293: -1293769543
+      CommonNormalAtlas_en_294: 1578929918
+      CommonNormalAtlas_en_295: -371811914
+      CommonNormalAtlas_en_296: 661259906
+      CommonNormalAtlas_en_297: 404908947
+      CommonNormalAtlas_en_298: 1550711997
+      CommonNormalAtlas_en_299: 136993920
+      CommonNormalAtlas_en_3: -1688939221
+      CommonNormalAtlas_en_30: -772928038
+      CommonNormalAtlas_en_31: -822312206
+      CommonNormalAtlas_en_32: 1724386767
+      CommonNormalAtlas_en_33: 1091614147
+      CommonNormalAtlas_en_34: 1615775554
+      CommonNormalAtlas_en_35: -722484356
+      CommonNormalAtlas_en_36: 1319610042
+      CommonNormalAtlas_en_37: 464946645
+      CommonNormalAtlas_en_38: -364953171
+      CommonNormalAtlas_en_39: 7292904
+      CommonNormalAtlas_en_4: -131032786
+      CommonNormalAtlas_en_40: -2028068527
+      CommonNormalAtlas_en_41: 1920518568
+      CommonNormalAtlas_en_42: 1688337164
+      CommonNormalAtlas_en_43: 147385168
+      CommonNormalAtlas_en_44: -2038999913
+      CommonNormalAtlas_en_45: 1038020330
+      CommonNormalAtlas_en_46: 886326263
+      CommonNormalAtlas_en_47: -1789711534
+      CommonNormalAtlas_en_48: -1286235216
+      CommonNormalAtlas_en_49: 2123653772
+      CommonNormalAtlas_en_5: 1274933930
+      CommonNormalAtlas_en_50: 1106365048
+      CommonNormalAtlas_en_51: 1782777974
+      CommonNormalAtlas_en_52: -626545325
+      CommonNormalAtlas_en_53: 540907609
+      CommonNormalAtlas_en_54: 446347490
+      CommonNormalAtlas_en_55: -1428724324
+      CommonNormalAtlas_en_56: 1909731628
+      CommonNormalAtlas_en_57: 223896904
+      CommonNormalAtlas_en_58: 612426740
+      CommonNormalAtlas_en_59: 347982556
+      CommonNormalAtlas_en_6: -1553417079
+      CommonNormalAtlas_en_60: 1698568938
+      CommonNormalAtlas_en_61: 1490421372
+      CommonNormalAtlas_en_62: 1950984075
+      CommonNormalAtlas_en_63: -1852834427
+      CommonNormalAtlas_en_64: -680663501
+      CommonNormalAtlas_en_65: 585989393
+      CommonNormalAtlas_en_66: -1605931126
+      CommonNormalAtlas_en_67: -1301650378
+      CommonNormalAtlas_en_68: 1454017062
+      CommonNormalAtlas_en_69: 896355427
+      CommonNormalAtlas_en_7: -1088239575
+      CommonNormalAtlas_en_70: 527070943
+      CommonNormalAtlas_en_71: 1870888196
+      CommonNormalAtlas_en_72: -392085782
+      CommonNormalAtlas_en_73: 1902946993
+      CommonNormalAtlas_en_74: 1850626889
+      CommonNormalAtlas_en_75: 1992035906
+      CommonNormalAtlas_en_76: 1822557340
+      CommonNormalAtlas_en_77: -1944158525
+      CommonNormalAtlas_en_78: -1123968950
+      CommonNormalAtlas_en_79: 848242907
+      CommonNormalAtlas_en_8: -1871062595
+      CommonNormalAtlas_en_80: 1500981650
+      CommonNormalAtlas_en_81: -492045418
+      CommonNormalAtlas_en_82: 1638835060
+      CommonNormalAtlas_en_83: 1385841038
+      CommonNormalAtlas_en_84: -1129266792
+      CommonNormalAtlas_en_85: -1520596253
+      CommonNormalAtlas_en_86: 1087096470
+      CommonNormalAtlas_en_87: -1897386465
+      CommonNormalAtlas_en_88: 1140166329
+      CommonNormalAtlas_en_89: -1314107138
+      CommonNormalAtlas_en_9: -57296027
+      CommonNormalAtlas_en_90: 1700701203
+      CommonNormalAtlas_en_91: -1281899092
+      CommonNormalAtlas_en_92: 1590905420
+      CommonNormalAtlas_en_93: 2060926043
+      CommonNormalAtlas_en_94: 184195774
+      CommonNormalAtlas_en_95: 1212472854
+      CommonNormalAtlas_en_96: -1108955408
+      CommonNormalAtlas_en_97: -1548413628
+      CommonNormalAtlas_en_98: 2090875080
+      CommonNormalAtlas_en_99: -442596126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
